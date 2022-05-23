@@ -1,3 +1,10 @@
+### Custom
+
+# Ignore slides
+*.pdf
+
+### React.gitignore
+
 .DS_STORE
 node_modules
 scripts/flow/*/.flowconfig

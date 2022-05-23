@@ -12,7 +12,7 @@ To be presented at TOHacks 2022's in-person workshop series in Toronto, Ontario 
 
 ## About 🤔
 
-This workshop is a 1-hour guide to using React. Inspired by [React in an hour or your money back](https://www.youtube.com/watch?v=1PFXBpJjjoc) by Anson Yu and Jacky Zhao, learnings from [Data Science for People in a Hurry](https://github.com/michaelfromyeg/data-science-for-people-in-a-hurry) by yours truly, and [Complete Intro to React, v7](https://frontendmasters.com/courses/complete-react-v7/) by Brian Holt.
+This workshop is a 1-hour guide to using React. Inspired by [React in an hour or your money back](https://www.youtube.com/watch?v=1PFXBpJjjoc) by Anson Yu and Jacky Zhao, learnings from [Data Science for People in a Hurry](https://github.com/michaelfromyeg/data-science-for-people-in-a-hurry) by yours truly, [the official reactjs.org tutorial](https://reactjs.org/tutorial/tutorial.html) and [Complete Intro to React, v7](https://frontendmasters.com/courses/complete-react-v7/) by Brian Holt.
 
 ## Getting Started 🏃‍♂️
 
