@@ -1,3 +1,5 @@
 {
-    "line-length": false
+    "line-length": false,
+    "no-trailing-punctuation": false,
+    "first-line-h1": false
 }
