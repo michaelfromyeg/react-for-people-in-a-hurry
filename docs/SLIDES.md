@@ -148,26 +148,38 @@ root.render(element);
 
 ------------------
 
-- A quick example of hooks
+```jsx
+import { useState } from "react"
+
+function App() {
+  let count = 0;
+
+  function handleClick() { count = count + 1; }
+
+  return (<>
+      <button onClick={handleClick} />
+      {/* Render the count on the screen */}
+      <span>{count}</span>
+    </>)
+}
+```
+
+------------------
 
 ```jsx
 import { useState } from "react"
 
-const App = () => {
+function App() {
   // On a re-render of <App />, state will persist!
   const [count, setCount] = useState(0)
 
-  function handleClick() {
-    setCount(count + 1)
-  }
+  function handleClick() { setCount(count + 1) }
 
-  return (
-    <>
+  return (<>
       <button onClick={handleClick} />
       {/* Render the count on the screen */}
       <span>{count}</span>
-    </>
-  )
+    </>)
 }
 ```
 

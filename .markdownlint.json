@@ -1,5 +1,6 @@
 {
     "line-length": false,
     "no-trailing-punctuation": false,
-    "first-line-h1": false
+    "first-line-h1": false,
+    "single-title": false
 }
